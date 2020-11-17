@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MotionSplash</string>
+    <string name="app_name_by">Powered by e9ab98e991ab</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">仪表板</string>
+    <string name="title_notifications">通知</string>
+</resources>
