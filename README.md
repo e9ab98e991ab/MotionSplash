@@ -2,7 +2,7 @@
 
 ## 效果图
 
-![capture](\assets\capture.gif)
+![capture](https://github.com/e9ab98e991ab/MotionSplash/blob/master/assets/capture.gif)
 
 [项目地址](https://github.com/e9ab98e991ab/MotionSplash)
 
